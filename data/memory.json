@@ -1,0 +1,1347 @@
+{
+  "user_1": {
+    "history": [
+      {
+        "timestamp": "2025-10-22T09:55:45.316796",
+        "message": "Oi, quero aprender ingles",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T09:57:55.273074",
+        "message": "Oi, quero aprender ingles",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:00:24.904014",
+        "message": "oi, quero aprender ingles",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:00:55.260631",
+        "message": "eu nao entendo ingles",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:01:07.295540",
+        "message": "pode responder em portugues?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:02:45.206641",
+        "message": "quero aprender somente por divers\u00e3o",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:03:11.042818",
+        "message": "livros",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:05:46.619684",
+        "message": "oi agente, quero continuar a aprender ingles",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:06:18.619104",
+        "message": "quero aprender o basico primeiro",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:06:33.368857",
+        "message": "voce nao tem nenhuma sugest\u00e3o?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:08:05.993407",
+        "message": "oi, quero continuar a aprender ingles",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:08:20.457627",
+        "message": "ok, como vamos come\u00e7ar?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:08:42.260333",
+        "message": "entao me responda, como vamos come\u00e7ar?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:08:52.588204",
+        "message": "pois comece a me ensinar",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:08:56.049479",
+        "message": "pois comece a me ensinar",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:09:36.656315",
+        "message": "oi agente, me ajude a aprender ingles",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:10:17.795082",
+        "message": "oi, me ajude a aprender ingles",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:11:12.124509",
+        "message": "oi, quero aprender ingles",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-10-22T10:14:59.700362",
+        "message": "oi, quero aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:15:23.490983",
+        "message": "as sauda\u00e7\u00f5es basicas",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:16:02.566670",
+        "message": "me ajude a praticar essa",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:18:56.129061",
+        "message": "oi, quero continuar a aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:20:05.987057",
+        "message": "oi, quero continuar a aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:21:24.075293",
+        "message": "hi, how are you?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:29:20.541963",
+        "message": "oi, quero continuar a aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:30:23.522909",
+        "message": "oi, quero continuar a aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:33:35.797575",
+        "message": "oi, quero aprender frances",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:33:51.374060",
+        "message": "oi, quero aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:36:43.419992",
+        "message": "oi, quero continuar a aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:37:21.738880",
+        "message": "oi, quero aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:37:44.732314",
+        "message": "how are you?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:38:05.572712",
+        "message": "i am fine and you?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:38:23.002299",
+        "message": "sim",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:38:40.792000",
+        "message": "nos ja aprendemos isso",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:39:01.654963",
+        "message": "vamos",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:39:26.253393",
+        "message": "mas eu nao sei falar isso em ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:44:47.541857",
+        "message": "oi, quero voltar a aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:45:02.131037",
+        "message": "acredito que basico",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:45:28.365303",
+        "message": "meu nome \u00e9 Emerson",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:45:53.831631",
+        "message": "Hello my name is Emerson",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:46:17.101171",
+        "message": "vamos",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-22T10:46:23.467220",
+        "message": "vamos",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:32:29.999967",
+        "message": "ola, gostaria de come\u00e7ar a aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:32:50.296518",
+        "message": "hello",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:48:42.178417",
+        "message": "Ol\u00e1 quero aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:48:59.350819",
+        "message": "li\u00e7\u00f5es basicas",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:49:25.931301",
+        "message": "vamos continuar com apresenta\u00e7\u00f5es",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:49:49.123364",
+        "message": "Hello my name is",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:50:12.428973",
+        "message": "Hello my name is Emerson",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:50:29.895786",
+        "message": "Hi, i'm emerson",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:50:46.079243",
+        "message": "Hi, I'm emerson",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:51:00.410359",
+        "message": "Hi, I'm Emerson",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:51:17.472565",
+        "message": "I'm fine and you?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:51:56.611062",
+        "message": "How is your day going?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:52:17.350648",
+        "message": "Gostaria de me aprofundar nisso",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:52:34.921438",
+        "message": "Praticar uma conversa basica",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:53:07.305714",
+        "message": "Sim, ja sei como me apresentar",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:59:29.662791",
+        "message": "ola, queria praticar agora",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T09:59:47.950269",
+        "message": "comece falando em ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T10:02:07.271762",
+        "message": "quero praticar agora o ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T10:02:08.051889",
+        "message": "quero praticar agora o ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T10:02:27.163837",
+        "message": "ola, quero praticar uma conversa\u00e7\u00e3o",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T10:08:10.286041",
+        "message": "ola, quero praticar a conversa\u00e7\u00e3o agora",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T10:08:30.415542",
+        "message": "Hi, I'm Emerson",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-10-29T10:11:32.029043",
+        "message": "ola, quero treinar conversa\u00e7\u00e3o",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-05T10:28:36.323445",
+        "message": "ola, quero continuar a aprender ingles",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-05T10:28:57.882370",
+        "message": "quero aprender algo mais avan\u00e7ado",
+        "emotion": "neutral"
+      }
+    ],
+    "learning_state": {
+      "nivel": "beginner",
+      "modulo_atual": "Vocabulary & Expressions",
+      "ultimo_topico": "introducao"
+    }
+  },
+  "emersonianbezerra@gmail.com": {
+    "history": [
+      {
+        "timestamp": "2025-11-05T11:03:13.869597",
+        "message": "Oi!",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-05T11:03:44.318770",
+        "message": "Estou muito interessado, podemos come\u00e7ar",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-05T11:07:27.726974",
+        "message": "Oi!",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-05T11:07:44.206112",
+        "message": "Sim",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-05T11:08:05.312042",
+        "message": "sim, quero aprender mais palavras basicas",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-05T11:09:55.560716",
+        "message": "Oi!",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-05T11:11:38.896623",
+        "message": "Oi",
+        "emotion": "neutral"
+      }
+    ],
+    "profile": {
+      "nivel": "iniciante",
+      "modulo": 1,
+      "created_at": "2025-11-05T11:03:06.640123"
+    },
+    "learning_state": {
+      "ultimo_topico": "traduzindo para"
+    }
+  },
+  "Emerson Sousa": {
+    "history": [
+      {
+        "timestamp": "2025-11-22T16:38:33.831008",
+        "message": "Quero praticar a conversa\u00e7\u00e3o",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T16:42:12.457674",
+        "message": "Quero treinar o vocabulario",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T16:42:46.765330",
+        "message": "vamos, me fa\u00e7a o exercicio",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T16:51:59.761842",
+        "message": "quero continuar com a conversa\u00e7\u00e3o",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T16:55:32.397465",
+        "message": "quero continuar a aprender o vocabulario",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T16:57:03.674060",
+        "message": "sim, vamos fazer isso",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T17:05:08.701897",
+        "message": "quero estudar o vocabulario",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T17:05:37.067116",
+        "message": "my car is red",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T17:06:00.692213",
+        "message": "eu nao sei",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T17:06:32.304933",
+        "message": "nao consigo",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T17:06:59.391747",
+        "message": "o c\u00e9u \u00e9 blue",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T17:07:26.220448",
+        "message": "red",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T17:07:50.912734",
+        "message": "my car is red",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T17:08:17.234603",
+        "message": "podemos continuar",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T17:20:58.283284",
+        "message": "me ajude a treinar a conversacao",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T17:21:36.523998",
+        "message": "Im fine than you",
+        "emotion": "confident"
+      },
+      {
+        "timestamp": "2025-11-24T17:22:00.111054",
+        "message": "continuar",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T17:22:41.151406",
+        "message": "blue, como eu to me sentindo agora",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T17:23:01.026743",
+        "message": "sim",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T17:38:40.763348",
+        "message": "Quero continuar o aprendizado",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-24T17:46:07.415051",
+        "message": "QUero continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-24T17:59:39.144820",
+        "message": "Quero continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-24T18:12:09.485261",
+        "message": "Quero continuar a aprender",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-24T18:12:54.104131",
+        "message": "Isso ja estudamos, quero estudar as cores",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-24T18:13:14.039288",
+        "message": "blue",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T18:20:14.286220",
+        "message": "quero continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-24T18:20:38.125377",
+        "message": "green",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T18:20:52.434950",
+        "message": "yellow",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T18:21:08.619615",
+        "message": "black",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T18:21:37.871031",
+        "message": "eu nao tenho carro",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T18:21:55.417919",
+        "message": "blue",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T18:29:13.084685",
+        "message": "quero continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-24T18:33:03.051398",
+        "message": "quero continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-24T18:34:10.936590",
+        "message": "quero continuar os estudos",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T19:00:54.321241",
+        "message": "quero continuar a aprender o vocabulario",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T19:08:15.945403",
+        "message": "quero continuar as aulas",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T19:12:17.079314",
+        "message": "gostaria de continuar as conversa\u00e7\u00f5es",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T19:12:52.500521",
+        "message": "Yellow",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-25T19:15:50.496337",
+        "message": "eu  n\u00e3o gostei dessa parte, pode fazer de outra forma?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-25T19:29:51.773435",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo o vocabulario!",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T19:30:14.727278",
+        "message": "My grass is green",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T19:30:35.118225",
+        "message": "Yellow",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-25T19:30:56.095683",
+        "message": "vermelho",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-25T19:31:45.360172",
+        "message": "nao estou gostando dessa forma, podemos mudar?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-25T19:32:14.586978",
+        "message": "sim, gostaria",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-25T20:56:47.736046",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo o vocabulario",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T20:57:06.885981",
+        "message": "Azul",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-25T20:57:42.852138",
+        "message": "podemos passar para o outro vocabulario? de frutas?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-25T20:58:20.672614",
+        "message": "nao gostei, podemos mudar?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-25T21:02:17.580303",
+        "message": "Ol\u00e1, gostaria de continuar a aprender o vocabulario de frutas",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T21:02:57.481979",
+        "message": "N\u00e3o gostei assim, podemos mudar",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-25T21:03:13.437966",
+        "message": "sim, gostaria de tentar",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T21:03:33.997291",
+        "message": "ok, continue",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-25T21:12:57.655035",
+        "message": "Ol\u00e1, quero conitnuar aprendendo o vocabulari de frutas",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T21:13:27.314764",
+        "message": "n\u00e3o quero assim, quero mudar",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-25T21:13:50.916735",
+        "message": "sim, gostaria",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-25T21:24:34.716025",
+        "message": "Ol\u00e1, gostaria de aprender o vocabulario das frutas e mais",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-25T21:26:20.044426",
+        "message": "N\u00e3o gostei, pode mudar a forma",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-25T21:26:38.169907",
+        "message": "Sim, gostaria",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T08:38:08.222599",
+        "message": "Ol\u00e1, gostaria de continuar estudando o vocabulario",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T08:38:46.400390",
+        "message": "Podemos aprender outras alem dessas?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T08:39:26.683748",
+        "message": "nao gostei dessa forma, podemos mudar?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-26T08:39:51.479561",
+        "message": "sim",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T08:40:11.862878",
+        "message": "estou pronto, vamos come\u00e7ar",
+        "emotion": "confident"
+      },
+      {
+        "timestamp": "2025-11-26T08:53:48.449922",
+        "message": "Ol\u00e1, gostaria de continuar o aprendizado do vocabul\u00e1rio",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T08:54:40.552824",
+        "message": "Melancia",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T08:54:40.746555",
+        "message": "Melancia",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T08:57:42.783257",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo o vocabulario",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T08:57:42.965300",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo o vocabulario",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T08:59:27.309594",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo o vcabulario",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T09:03:53.997823",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo o vocabulario",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T09:03:54.852863",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo o vocabulario",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T09:05:51.352483",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo o vocabulario",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T09:06:10.291047",
+        "message": "Strawberry",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T09:06:31.203644",
+        "message": "sim, gostaria",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T09:11:52.686484",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo o vocabul\u00e1rio",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T09:12:39.598722",
+        "message": "Pineapple",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T09:13:18.665238",
+        "message": "N\u00e3o estou gostando assim, podemos mudar?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-26T09:14:02.754915",
+        "message": "watermelon?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T09:14:34.233152",
+        "message": "Acho que a fruta \u00e9 apple",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T09:15:08.928139",
+        "message": "Acho que a fruta \u00e9 apple",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T09:15:45.852194",
+        "message": "apple",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T15:45:26.068787",
+        "message": "Ol\u00e1, gostaria de continuar o aprendizado com o novo guia",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T16:27:42.745566",
+        "message": "Ol\u00e1, quero continuar aprendendo de acordo com o ultimo guia",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T16:28:14.914645",
+        "message": "Sim, gostaria",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T16:28:49.488381",
+        "message": "nao estou gostando assim, podemos mudar?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-26T16:29:12.443311",
+        "message": "Supermarket",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T16:31:40.121035",
+        "message": "Queria continuar o mini jogo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-26T16:32:00.890760",
+        "message": "Vegetables",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-26T16:33:01.231029",
+        "message": "Voce ja deu a resposta",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T11:24:01.755838",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-27T11:25:14.215837",
+        "message": "N\u00e3o gostei assim, podemos mudar?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-27T11:58:26.446061",
+        "message": "Supermarket",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T11:58:56.929918",
+        "message": "sim, gostaria",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T11:59:38.456972",
+        "message": "sim, pode continuar",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T12:22:47.767244",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-27T12:23:29.794153",
+        "message": "banco do parque",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T12:28:58.163378",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-27T12:29:30.451065",
+        "message": "supermarket",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T12:33:01.391749",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-27T12:33:23.898680",
+        "message": "Eu estou indo pro bank",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T12:33:52.943196",
+        "message": "N\u00e3o, nunca fui",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T12:34:23.802014",
+        "message": "sim, gostaria",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T12:40:56.428258",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-27T12:44:48.516442",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-27T12:45:12.132021",
+        "message": "Sim, quero aprender em uma frase",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-27T12:51:43.987707",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-27T12:58:50.669083",
+        "message": "Ol\u00e1, gostaria de continuar aprendendo",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-11-27T12:59:12.817343",
+        "message": "I am eating a peach",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T12:59:37.250902",
+        "message": "n\u00e3o estou gostando assim, podemos mudar",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-11-27T12:59:57.803613",
+        "message": "Pode ser o adivinhe a palavra",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-27T13:00:18.234826",
+        "message": "knife",
+        "emotion": "neutral"
+      }
+    ],
+    "profile": {
+      "nivel": "iniciante",
+      "modulo": 1,
+      "created_at": "2025-11-22T16:33:55.547116"
+    },
+    "learning_state": {
+      "emocao_recente": "neutral",
+      "updated_at": "2025-11-27T13:00:18.245552",
+      "modulo_atual": 1,
+      "nivel": "iniciante",
+      "ultimo_topico": "computer\nQual",
+      "categoria_atual": "vocabulario",
+      "mini_game_suggested": false,
+      "mini_game_active": true
+    },
+    "taught_words": [
+      "park",
+      "supermarket",
+      "pharmacy",
+      "library\n\nO que voc",
+      "computer\nQual"
+    ],
+    "taught_topics": [
+      "park",
+      "supermarket",
+      "pharmacy",
+      "library\n\nO que voc",
+      "computer\nQual"
+    ]
+  },
+  "Ezechiel Tourret": {
+    "history": [
+      {
+        "timestamp": "2025-11-22T17:12:24.206282",
+        "message": "quero come\u00e7ar e aprender o vocabulario",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-22T17:13:07.593304",
+        "message": "red",
+        "emotion": "neutral"
+      }
+    ],
+    "profile": {
+      "nivel": "iniciante",
+      "modulo": 1,
+      "created_at": "2025-11-22T17:10:39.957173"
+    },
+    "learning_state": {
+      "emocao_recente": "neutral",
+      "updated_at": "2025-11-22T17:13:10.579179",
+      "categoria_atual": "vocabulario",
+      "modulo_atual": 1,
+      "nivel": "iniciante",
+      "ultimo_topico": "red"
+    }
+  },
+  "Ezechiel": {
+    "history": [
+      {
+        "timestamp": "2025-11-24T16:37:44.242547",
+        "message": "Me ajude a entender melhor a aula sobre vocabulario",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:38:21.433735",
+        "message": "Sim",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:38:52.233286",
+        "message": "Nao consigo, e voce usou o mesmo exemplo",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:39:16.428911",
+        "message": "climb?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:39:40.229995",
+        "message": "Sim gostaria",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:40:04.266142",
+        "message": "Nao sei",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:40:51.982847",
+        "message": "climbable?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:41:17.975006",
+        "message": "sim",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:41:39.301039",
+        "message": "decide",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:49:04.634348",
+        "message": "quero praticar",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:49:23.947193",
+        "message": "im fine and you?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-11-24T16:49:50.478955",
+        "message": "it was good, i went to class",
+        "emotion": "neutral"
+      }
+    ],
+    "profile": {
+      "nivel": "intermedi\u00e1rio",
+      "modulo": 2,
+      "created_at": "2025-11-24T16:33:17.160011"
+    },
+    "learning_state": {
+      "emocao_recente": "neutral",
+      "updated_at": "2025-11-24T16:49:50.518211",
+      "categoria_atual": "vocabulario",
+      "modulo_atual": 2,
+      "nivel": "intermedi\u00e1rio",
+      "ultimo_topico": "decide"
+    }
+  },
+  "teste": {
+    "history": [
+      {
+        "timestamp": "2025-12-01T12:33:56.078351",
+        "message": "Ol\u00e1, gostaria de come\u00e7ar o aprendizado em vocabul\u00e1rio",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-01T12:34:31.051208",
+        "message": "i wake up at 7",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T12:35:16.975244",
+        "message": "sim, quero aprender mais sobre o que fazer pos acordar",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-01T12:35:58.281472",
+        "message": "i get up at 7",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T12:36:35.264008",
+        "message": "escovar os dentes",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T12:38:03.726120",
+        "message": "tomar cafe da manha",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:09:37.307055",
+        "message": "sim, por exemplo tomar um banho",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:10:25.503488",
+        "message": "pela manha e pela noite, antes de ir pra a escola tambem",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:11:11.477637",
+        "message": "Sim, escovo",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:11:28.661550",
+        "message": "duas vezes",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:12:08.318942",
+        "message": "podemos passar para o proximo, almo\u00e7ar",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:12:41.681897",
+        "message": "i will have lunch now",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:13:17.351039",
+        "message": "gosto muito de arroz e feijao",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-01T13:13:45.654356",
+        "message": "i love to eat rice in the lunch",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-01T13:14:18.642866",
+        "message": "sim, fale uma frase simples sobre comida",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:14:23.714957",
+        "message": "sim, fale uma frase simples sobre comida",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:15:18.104300",
+        "message": "podemos passar para a proxima express\u00e3o?",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:15:43.805163",
+        "message": "ja aprendemos sobre breakfeast",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:16:02.376431",
+        "message": "tambem ja vimos sobre have lunch",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:16:40.418433",
+        "message": "sim, por exemplo terminar o trabalho e comer o jantar",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-01T13:17:09.481868",
+        "message": "sim, podemos falar do dinner after a escola",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-01T15:56:44.236550",
+        "message": "N\u00e3o estou gostando assim, podemos mudar?",
+        "emotion": "negative"
+      },
+      {
+        "timestamp": "2025-12-01T15:57:24.968178",
+        "message": "Wake up, \u00e9 a minha resposta do mini game",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T14:21:02.430721",
+        "message": "ol\u00e1, gostaria de continuar aprendendo o vocabul\u00e1rio",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-03T14:21:17.198588",
+        "message": "ol\u00e1, gostaria de continuar aprendendo o vocabul\u00e1rio",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-03T14:23:29.132758",
+        "message": "Ol\u00e1, gostaria de aprender o vocabul\u00e1rio",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-03T14:24:55.143999",
+        "message": "wake up",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T14:49:26.683055",
+        "message": "Ol\u00e1, gostaria de aprender uma palavra nova",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-03T14:51:53.165693",
+        "message": "ol\u00e1, me ensine uma express\u00e3o nova",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-03T14:52:46.433026",
+        "message": "i get up at 7am",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T14:53:09.444613",
+        "message": "pao com queijo",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:04:31.583117",
+        "message": "ola, me apresente uma nova express\u00e3o",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:05:31.275196",
+        "message": "i have breakfast at 8am",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:06:05.317191",
+        "message": "eu leio um livro",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:06:38.056609",
+        "message": "minha bolsa",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:24:37.876581",
+        "message": "ola, me ensine uma nova express\u00e3o",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-03T15:25:26.198003",
+        "message": "gosto de ser saudado com oi, vai bem?",
+        "emotion": "positive"
+      },
+      {
+        "timestamp": "2025-12-03T15:26:01.140452",
+        "message": "i get up and i eat breakfast",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:26:35.457138",
+        "message": "normalmente pela manh\u00e3 eu tomo banho",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:46:10.174402",
+        "message": "ola, me esnine uma nova express\u00e3o relacionada ao vocabulario",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:46:49.953363",
+        "message": "i brush my teeth every morning",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:47:20.502621",
+        "message": "i have breakfast at 8am",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:47:50.494288",
+        "message": "sim, estou pronto pra tentar",
+        "emotion": "confident"
+      },
+      {
+        "timestamp": "2025-12-03T15:48:20.063205",
+        "message": "i have lunch at 12pm",
+        "emotion": "neutral"
+      },
+      {
+        "timestamp": "2025-12-03T15:49:01.002903",
+        "message": "meu horario preferido pra jantar \u00e9 8pm",
+        "emotion": "neutral"
+      }
+    ],
+    "profile": {
+      "nivel": "A1 - Beginner",
+      "modulo": "Ingl\u00eas",
+      "created_at": "2025-11-30T19:01:03.185148"
+    },
+    "learning_state": {
+      "emocao_recente": "neutral",
+      "updated_at": "2025-12-03T15:49:06.277287",
+      "categoria_atual": "vocabulario",
+      "modulo_atual": "Ingl\u00eas",
+      "nivel": "A1 - Beginner",
+      "mini_game_active": true,
+      "ultimo_topico": "ola, me esnine uma nova express\u00e3o relacionada ao vocabulario",
+      "ultima_pergunta": "Voc\u00ea est\u00e1 fazendo um \u00f3timo progresso! \ud83d\ude0a\n\nAgora, vamos aprender uma nova express\u00e3o relacionada \u00e0 rotina di\u00e1ria: \"Wake up\" (Acordar). A pron\u00fancia simplificada \u00e9 \"ueik ap\".\n\nVoc\u00ea consegue me dizer a que horas voc\u00ea costuma acordar?"
+    }
+  },
+  "user123": {
+    "history": [
+      {
+        "timestamp": "2025-11-30T20:47:22.765003",
+        "message": "Como melhorar meu ingl\u00eas?",
+        "emotion": "neutral"
+      }
+    ],
+    "profile": {},
+    "learning_state": {},
+    "taught_words": [],
+    "taught_topics": []
+  }
+}

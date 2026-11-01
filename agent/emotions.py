@@ -2,7 +2,7 @@ from langchain_groq import ChatGroq
 import os
 
 class EmotionAnalyser:
-    def __init__(self, groq_model="llama-3.3-70b-versatile"):
+    def __init__(self, groq_model="openai/gpt-oss-120b"):
         try:
             self.llm = ChatGroq(
                 model=groq_model,

@@ -49,7 +49,7 @@ if not profile:
         # Atualiza profile na sessão
         st.session_state.users[user_id]["profile"] = st.session_state.tutor.memory.get_user_profile(user_id)
         st.success("Perfil configurado! Pode começar a conversar 👇")
-        st.rerun()
+        st.experimental_rerun()
 
     st.stop()  # Impede o resto do app de rodar até configurar
 

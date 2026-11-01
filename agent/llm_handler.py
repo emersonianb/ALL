@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class LLMHandler:
-    def __init__(self, model="llama-3.3-70b-versatile"):
+    def __init__(self, model="openai/gpt-oss-120b"):
         self.llm = ChatGroq(
             model=model,
             temperature=0.4,

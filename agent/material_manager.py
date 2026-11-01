@@ -5,7 +5,7 @@ from pathlib import Path
 
 
 class MaterialFormatter:
-    def __init__(self, model="llama-3.1-8b-instant"):
+    def __init__(self, model="openai/gpt-oss-120b"):
         self.llm = ChatGroq(
             model=model,
             temperature=0.0,
